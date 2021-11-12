@@ -5,3 +5,5 @@
 ##Registro de BACKUPS
 BackUp realizada el 20211112-08:31:21
 echo ""
+- BackUp realizada el 20211112-08:34:11
+
