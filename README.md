@@ -4,3 +4,10 @@
 
 BackUp realizada el 
 BackUp realizada el 'date'
+BackUp realizada el Fri Nov 12 08:16:15 UTC 2021
+BackUp realizada el Fri Nov 12 08:17:21 UTC 2021
+BackUp realizada el Fri Nov 12 08:17:37 UTC 2021
+BackUp realizada el Fri Nov 12 08:17:50 UTC 2021
+BackUp realizada el Fri Nov 12 08:20:27 UTC 2021
+BackUp realizada el Fri Nov 12 08:22:19 UTC 2021
+BackUp realizada el 20211112-08:26:54
